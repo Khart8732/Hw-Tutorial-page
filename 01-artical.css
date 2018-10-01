@@ -1,0 +1,31 @@
+body{
+background-image: url(../Html-Hw/01-hw-images/maxresdefault.jpg);
+;
+}
+.image{
+    color: gold;
+    font-size: 35px;
+}
+.iframe{
+    position:relative;
+    top: 5px;
+    left: 0px;
+}
+h2{
+    color:green;
+    text-align: center;
+    font-size: 2cm;
+    font-display: bold;
+    font-family: 'Chakra Petch';
+}
+p{
+    color: antiquewhite;
+    font-size: 0.5cm;
+    font-family: sans-serif;
+}
+h1{
+    font-family: 'Chakra Petch';
+}
+span{
+    color: gold
+}
